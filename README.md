@@ -1,7 +1,9 @@
 # -_solucion_java-_swing_oracle_19C_- :.
 🧩 Solución Java (Swing) + Oracle 19c:
 
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/e6f10175-e1cb-4758-80ab-b80655426e05" />  
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/e6f10175-e1cb-4758-80ab-b80655426e05" />    
+
+<img width="2551" height="1079" alt="image" src="https://github.com/user-attachments/assets/6f3890f4-d810-4050-a804-f7d28c4bcc11" />    
 
 ```
 
